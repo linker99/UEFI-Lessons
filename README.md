@@ -1,5 +1,5 @@
 These series of lessons are intendend to get you started with UEFI programming in Linux with the help of [EDKII](https://github.com/tianocore/edk2).
-
+https://www.eet-china.com/mp/a150514.html UEFI入门必读的12本书
 # Content
 
 - [Lesson 00](Lessons/Lesson_00): Getting started guide for EDKII. Compile OVMF and run it in QEMU
